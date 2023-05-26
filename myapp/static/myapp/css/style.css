@@ -1,0 +1,26 @@
+
+
+
+#id_gender, #id_job_city{
+ list-style-type: none;
+ display: inline-flex;
+}
+/* for :horizontal job city id with page source*/
+
+#id_gender > li {
+ padding-left: 10px;
+}
+
+
+#id_job_city > li {
+ padding-left: 10px;
+}
+
+body{
+    background-image: url("/static/myapp/images/a.jpg");
+    background-size: cover;
+    position:relative;
+    background-position:center;
+  
+}
+
